@@ -1,5 +1,5 @@
 {
-    "name": "yooper/php-text-analysis",
+    "name": "amorpha/php-text-analysis",
     "description": "PHP Text Analysis is a library for performing Information Retrieval (IR) and Natural Language Processing (NLP) tasks using the PHP language",
     "keywords": ["nlp","ir","text analysis","natural language processing", "text classification"],
     "license": "MIT",
